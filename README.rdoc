@@ -1,5 +1,5 @@
 == README
 
-This was completed as part of The Odin Project's Web 101 course, specifically the Rails Project, a blogging platform. Details of the assignment can be found [here](http://www.theodinproject.com/web-development-101/ruby-on-rails?ref=lc-pb). 
+This was completed as part of The Odin Project's Web 101 course, specifically the Rails Project, a blogging platform. Details of the assignment can be found here: http://www.theodinproject.com/web-development-101/ruby-on-rails?ref=lc-pb.
 
-You can find the live application [here](https://luke-blogger2.herokuapp.com).
+You can find the live application here: https://luke-blogger2.herokuapp.com.
